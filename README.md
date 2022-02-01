@@ -8,3 +8,8 @@ The project energy.comsumption.sample.mm was developed by using EMF. As follows 
   - data: contains the file LCL-June2015v2_0.csv (contains 1 millions of rows of electricity measure KWH/hh (per half hour)). The other file is LCLModel.zip which contains the file LCLModel.ec that is the XMI representation of the LCL-June2015v2_0.csv which follows the structure of the Ecore meta-model within the model folder. In addition, this folder contains the file LCLModel_4000 that only contains 4000 of electrical energy consumption.
 
 Please, check the videoclip in /instructions to run the provided code.
+
+Planned Agenda: 
+9:00 – 9:30 Mentoring time slot I
+13:00 – 13:30 Mentoring time slot II
+17:00 – 17:30 Short presentation about the results
