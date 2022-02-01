@@ -10,7 +10,8 @@ The project energy.comsumption.sample.mm was developed by using EMF. As follows 
 Please, check the videoclip in /instructions to run the provided code.
 
 Planned Agenda: 
-9:00 – 9:30 Mentoring time slot I
-13:00 – 13:30 Mentoring time slot II
-17:00 – 17:30 Short presentation about the results
+
+- 9:00 – 9:30 Mentoring time slot I
+- 13:00 – 13:30 Mentoring time slot II
+- 17:00 – 17:30 Short presentation about the results
 
