@@ -17,7 +17,7 @@ Planned Agenda:
 - 17:00 – 17:30 Short presentation about the results
 
 Eclipse Dependencies
-  - Apache CSV
+  - Apache Commons CSV
     - Update Site: https://download.eclipse.org/tools/orbit/downloads/2021-12
-    -  Install only Apache CSV
+    -  Install only Apache Commons CSV
 
